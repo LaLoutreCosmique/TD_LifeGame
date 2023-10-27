@@ -4,8 +4,8 @@ namespace TD_LifeGame
 {
     public class Game
     {
-        int _gridDimension;
-        int _iteration;
+        int GridDimension;
+        int Iteration;
         readonly List<Coords> _activeCellsCoords = new List<Coords>();
 
         public Game(int nbCell, int nbIteration)

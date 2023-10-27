@@ -2,18 +2,18 @@ namespace TD_LifeGame
 {
     public readonly struct Coords
     {
-        readonly int _x;
-        readonly int _y;
+        public readonly int X;
+        public readonly int Y;
 
         public Coords(int x, int y)
         {
-            _x = x;
-            _y = y;
+            X = x;
+            Y = y;
         }
 
         public override string ToString()
         {
-            return $"X : {_x}, Y : {_y}";
+            return $"X : {X}, Y : {Y}";
         }
     }
 }

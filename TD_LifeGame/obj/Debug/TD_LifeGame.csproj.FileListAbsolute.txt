@@ -1,0 +1,2 @@
+/Users/erwan/RiderProjects/TD_LifeGame/TD_LifeGame/obj/Debug/TD_LifeGame.csproj.AssemblyReference.cache
+/Users/erwan/RiderProjects/TD_LifeGame/TD_LifeGame/obj/Debug/TD_LifeGame.csproj.CoreCompileInputs.cache
